@@ -1,0 +1,52 @@
+*{
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	
+}
+
+
+body{
+	background-color: white;
+}
+
+#container
+{
+
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 1280px;
+	height: 100%; 
+	color: white;
+	font: 13px Helvetica, Sans-Serif;
+	background-image:url('../../img/background/01.jpg');
+	/*background-color:#cccccc;*/	
+	
+}
+
+
+#mainIndex{
+	height: 500px;
+}
+
+#left{
+	float: left;
+	height: 100%;
+	width: 50%;
+}
+
+	#left div{	
+		margin-left: auto; 
+		margin-right: auto;
+		width: 100%;
+	}
+
+#right{
+	float: left;
+	height: 100%;
+	width: 50%;
+}
+
+
+label{
+	color: white;
+}
